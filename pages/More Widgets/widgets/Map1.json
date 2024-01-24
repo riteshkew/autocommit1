@@ -1,0 +1,50 @@
+{
+    "zoomLevel": 50,
+    "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+    "mobileBottomRow": 45,
+    "widgetName": "Map1",
+    "defaultMarkers": [{
+        "title": "Location1",
+        "lat": 25.122,
+        "long": 50.132
+    }],
+    "displayName": "Map",
+    "iconSVG": "/static/media/icon.5d50414980b866c69864af79042fa1f9.svg",
+    "topRow": 13,
+    "bottomRow": 53,
+    "parentRowSpace": 10,
+    "type": "MAP_WIDGET",
+    "hideCard": false,
+    "mobileRightColumn": 31,
+    "animateLoading": true,
+    "allowZoom": true,
+    "parentColumnSpace": 15.109375,
+    "leftColumn": 7,
+    "dynamicBindingPathList": [
+        {"key": "borderRadius"},
+        {"key": "boxShadow"}
+    ],
+    "enablePickLocation": true,
+    "mapCenter": {
+        "lat": 25.122,
+        "long": 50.132
+    },
+    "isClickedMarkerCentered": true,
+    "isDisabled": false,
+    "enableSearch": true,
+    "key": "rrgothoi9x",
+    "isDeprecated": false,
+    "rightColumn": 31,
+    "widgetId": "9ce1lk4j5g",
+    "minWidth": 450,
+    "isVisible": true,
+    "version": 1,
+    "parentId": "0",
+    "tags": ["Content"],
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "mobileTopRow": 5,
+    "responsiveBehavior": "fill",
+    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "mobileLeftColumn": 7
+}

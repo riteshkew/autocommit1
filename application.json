@@ -1,0 +1,35 @@
+{
+  "pages": [
+    {
+      "id": "PostGRes",
+      "isDefault": true
+    },
+    {
+      "id": "Movies",
+      "isDefault": false
+    },
+    {
+      "id": "Widget Page",
+      "isDefault": false
+    },
+    {
+      "id": "More Widgets",
+      "isDefault": false
+    },
+    {
+      "id": "Gsheets",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#F1DEFF",
+  "unpublishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "isManualUpdate": false,
+  "deleted": false
+}

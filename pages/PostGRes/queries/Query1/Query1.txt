@@ -1,0 +1,1 @@
+SELECT * FROM public."Habitasaurus_Habits" LIMIT 10;
