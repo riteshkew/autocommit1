@@ -1,57 +1,45 @@
 {
   "unpublishedPage": {
-    "name": "Movies",
-    "slug": "movies",
+    "name": "OAuth",
+    "slug": "oauth",
     "layouts": [
       {
         "viewMode": false,
         "dsl": {
           "widgetName": "MainContainer",
           "backgroundColor": "none",
-          "rightColumn": 1174,
+          "rightColumn": 1224,
           "snapColumns": 64,
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 880,
+          "bottomRow": 810,
           "containerStyle": "none",
-          "snapRows": 125,
+          "snapRows": 66,
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
-          "version": 87,
-          "minHeight": 900,
+          "version": 85,
+          "minHeight": 680,
           "parentColumnSpace": 1,
-          "dynamicTriggerPathList": [],
           "dynamicBindingPathList": [],
           "leftColumn": 0
         },
         "layoutOnLoadActions": [
           [
             {
-              "id": "Movies_FindQuery",
-              "name": "FindQuery",
+              "id": "OAuth_Api1",
+              "name": "Api1",
               "confirmBeforeExecute": false,
-              "pluginType": "DB",
-              "jsonPathKeys": [
-                "(data_table.pageNo - 1) * data_table.pageSize",
-                "data_table.pageSize",
-                "data_table.searchText||\"\"",
-                "data_table.sortOrder.column || 'genres'",
-                "data_table.sortOrder.order == \"desc\" ? -1 : 1",
-                "key_select.selectedOptionValue",
-                "order_select.selectedOptionValue"
-              ],
+              "pluginType": "API",
+              "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             }
           ]
         ],
         "layoutOnLoadActionErrors": [],
-        "mongoEscapedWidgetNames": [
-          "data_table"
-        ],
         "validOnPageLoadActions": true,
-        "id": "Movies",
+        "id": "OAuth",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -62,5 +50,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "65b100befb30d970150da4b1_65b10129fb30d970150da4cc"
+  "gitSyncId": "65b100befb30d970150da4b1_65b2181ffb30d970150da7a3"
 }

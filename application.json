@@ -27,6 +27,10 @@
     {
       "id": "Gsheets",
       "isDefault": false
+    },
+    {
+      "id": "OAuth",
+      "isDefault": false
     }
   ],
   "viewMode": false,

@@ -27,7 +27,6 @@
         {"key": "boxShadow"}
     ],
     "children": [{
-        "mobileBottomRow": null,
         "widgetName": "Canvas2",
         "displayName": "Canvas",
         "topRow": 0,
@@ -36,15 +35,12 @@
         "type": "CANVAS_WIDGET",
         "canExtend": false,
         "hideCard": true,
-        "minHeight": null,
-        "mobileRightColumn": null,
         "useAutoLayout": false,
         "parentColumnSpace": 1,
         "leftColumn": 0,
         "dynamicBindingPathList": [],
         "key": "lb4kacrqb2",
         "isDeprecated": false,
-        "rightColumn": null,
         "detachFromLayout": true,
         "widgetId": "vg9nackimu",
         "containerStyle": "none",
