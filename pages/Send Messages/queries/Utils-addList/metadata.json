@@ -35,7 +35,8 @@
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": []
+    "userPermissions": [],
+    "createdAt": "2024-02-29T05:55:19Z"
   },
   "id": "Send Messages_Utils.addList",
   "deleted": false,

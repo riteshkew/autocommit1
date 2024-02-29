@@ -129,7 +129,8 @@
     "userSetOnLoad": true,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": []
+    "userPermissions": [],
+    "createdAt": "2024-02-29T05:55:19Z"
   },
   "id": "Movies_FindQuery",
   "deleted": false,
