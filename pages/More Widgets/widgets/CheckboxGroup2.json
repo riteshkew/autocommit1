@@ -1,51 +1,65 @@
 {
-    "mobileBottomRow": 40,
-    "widgetName": "CheckboxGroup2",
-    "dynamicPropertyPathList": [{"key": "options"}],
-    "displayName": "Checkbox Group",
-    "iconSVG": "/static/media/icon.9522c5e7f896ce165fcd1dbba438daff.svg",
-    "labelText": "Label",
-    "topRow": 34,
-    "bottomRow": 38,
-    "parentRowSpace": 10,
-    "labelWidth": 5,
-    "type": "CHECKBOX_GROUP_WIDGET",
-    "hideCard": false,
-    "mobileRightColumn": 55,
-    "animateLoading": true,
-    "parentColumnSpace": 15.09375,
-    "dynamicTriggerPathList": [],
-    "leftColumn": 32,
-    "dynamicBindingPathList": [
-        {"key": "accentColor"},
-        {"key": "borderRadius"},
-        {"key": "options"}
-    ],
-    "labelPosition": "Top",
-    "options": "{{JSObject2.myVar1}}",
-    "isDisabled": false,
-    "key": "u27ttsm7zk",
-    "labelTextSize": "0.875rem",
-    "isRequired": false,
-    "isDeprecated": false,
-    "rightColumn": 55,
-    "defaultSelectedValues": ["BLUE"],
-    "dynamicHeight": "AUTO_HEIGHT",
-    "widgetId": "bn7feho7gk",
-    "accentColor": "{{appsmith.theme.colors.primaryColor}}",
-    "isVisible": true,
-    "version": 2,
-    "parentId": "0",
-    "tags": ["Toggles"],
-    "labelAlignment": "left",
-    "renderMode": "CANVAS",
-    "isLoading": false,
-    "mobileTopRow": 34,
-    "originalTopRow": 34,
-    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-    "mobileLeftColumn": 32,
-    "maxDynamicHeight": 9000,
-    "originalBottomRow": 38,
-    "isInline": true,
-    "minDynamicHeight": 4
+  "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 38,
+  "defaultSelectedValues": [
+    "BLUE"
+  ],
+  "displayName": "Checkbox Group",
+  "dynamicBindingPathList": [
+    {
+      "key": "accentColor"
+    },
+    {
+      "key": "borderRadius"
+    },
+    {
+      "key": "options"
+    }
+  ],
+  "dynamicHeight": "AUTO_HEIGHT",
+  "dynamicPropertyPathList": [
+    {
+      "key": "options"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "hideCard": false,
+  "iconSVG": "/static/media/icon.9522c5e7f896ce165fcd1dbba438daff.svg",
+  "isDeprecated": false,
+  "isDisabled": false,
+  "isInline": true,
+  "isLoading": false,
+  "isRequired": false,
+  "isVisible": true,
+  "key": "u27ttsm7zk",
+  "labelAlignment": "left",
+  "labelPosition": "Top",
+  "labelText": "Label",
+  "labelTextSize": "0.875rem",
+  "labelWidth": 5,
+  "leftColumn": 32,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "mobileBottomRow": 40,
+  "mobileLeftColumn": 32,
+  "mobileRightColumn": 55,
+  "mobileTopRow": 34,
+  "options": "{{JSObject2.myVar1}}",
+  "originalBottomRow": 38,
+  "originalTopRow": 34,
+  "parentColumnSpace": 15.09375,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 55,
+  "tags": [
+    "Toggles"
+  ],
+  "topRow": 34,
+  "type": "CHECKBOX_GROUP_WIDGET",
+  "version": 2,
+  "widgetId": "bn7feho7gk",
+  "widgetName": "CheckboxGroup2"
 }

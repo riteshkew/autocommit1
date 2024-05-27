@@ -1,11 +1,11 @@
 {
+  "gitSyncId": "65b100befb30d970150da4b1_65b10e86fb30d970150da519",
+  "id": "More Widgets_JSObject2",
   "unpublishedCollection": {
     "name": "JSObject2",
     "pageId": "More Widgets",
     "pluginId": "js-plugin",
     "pluginType": "JS",
-    "actions": [],
-    "archivedActions": [],
     "variables": [
       {
         "name": "myVar1",
@@ -15,10 +15,6 @@
         "name": "myVar2",
         "value": "{}"
       }
-    ],
-    "userPermissions": []
-  },
-  "id": "More Widgets_JSObject2",
-  "deleted": false,
-  "gitSyncId": "65b100befb30d970150da4b1_65b10e86fb30d970150da519"
+    ]
+  }
 }
